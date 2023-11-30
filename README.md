@@ -24,10 +24,10 @@
 <p align="center">
 	<a href="mailto:davednnadozie@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-    <a href="https://x.com/_day_veed?t=AwzPdwOvuC6cqiUzzY2WdA&s=08 "><img src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=flat" alt="Twitter"/></a>
+ <a href="https://x.com/_day_veed?t=AwzPdwOvuC6cqiUzzY2WdA&s=08"><img src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=flat" alt="Twitter"/></a>
+	<a href="https://www.linkedin.com/in/david-%E2%80%8Ennadozie-1195b5239/t"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="Linkedin"/></a>
+	
 
-
-    <a href="https://www.linkedin.com/in/david-%E2%80%8Ennadozie-1195b5239/t" alt="Linkedin"/></a>
 
 </p>
 
