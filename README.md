@@ -11,10 +11,10 @@
 
 ## :sassy_man: About me
 
-- :school: I am a `Frontend developer`
+- :school: I am a `Frontend Engineer`
 - 👨‍🎓 I am a `Computer Science Major`
 - :technologist: I love buiding Software to solve `Problems`
-- :thinking: I’m currently open for: ` a Frontend Developer role`
+- :thinking: I’m currently open for: ` a Frontend Engineer role`
 - :nerd_face: Always `learning new things`
 
 <br>
