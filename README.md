@@ -4,7 +4,7 @@
 	I'm <b>David</b>
 </h1>
 
-<h3 align="center">A passionate Frontend Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img align="center" alt="odizee coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnozeG9icTZhZmIyNXRtcTB2NmdkandlNWQ0ZTllY3Jsb3Q0ZDd0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 <br>
@@ -14,7 +14,7 @@
 - :school: I am a `Frontend Engineer`
 - 👨‍🎓 I am a `Computer Science Major`
 - :technologist: I love buiding Software to solve `Problems`
-- :thinking: I’m currently open for: ` a Frontend Engineer role`
+- :thinking: I’m currently open for: ` a Software Engineer role`
 - :nerd_face: Always `learning new things`
 
 <br>
