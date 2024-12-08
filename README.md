@@ -11,7 +11,7 @@
 
 ## :sassy_man: About me
 
-- :school: I am a `Frontend Engineer`
+- :school: I am a `Software Engineer`
 - 👨‍🎓 I am a `Computer Science Major`
 - :technologist: I love buiding Software to solve `Problems`
 - :thinking: I’m currently open for: ` a Software Engineer role`
